@@ -1,2 +1,3 @@
 # Demo
-This is my Pratice Git Repository
+This is my Pratice Git Repository.
+Author - ANUSHKA PATIL
